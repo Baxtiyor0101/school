@@ -357,6 +357,7 @@ main {
   .about p {
     display: inline-block;
   }
+  
   .about .about__info h1 {
     display: none;
   }
