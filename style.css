@@ -352,7 +352,6 @@ main {
   }
   .about {
     flex-direction: column;
-    /* justify-content: center; */
   }
   .about h1,
   .about p {
